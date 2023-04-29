@@ -52,7 +52,8 @@ Os desenvolvimentos dos procedimentos propostos, foram realizados com o acompanh
 <h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3>  
 
 ![](https://www.hashtagtreinamentos.com/wp-content/uploads/2022/10/Introducao-a-Modelagem-de-Dados-2-1024x359.png)
-................![](https://fabiojaniolima.gitbooks.io/banco-de-dados-modelagem-de-dados/content/imagens/capitulo-2/camadas.png)
+
+........![](https://fabiojaniolima.gitbooks.io/banco-de-dados-modelagem-de-dados/content/imagens/capitulo-2/camadas.png)
 
 
 ___
